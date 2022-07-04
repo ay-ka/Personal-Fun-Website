@@ -34,13 +34,13 @@
 <br/>
 <br/>
 
-⭐ My Formal CV Website developed by html, css, js
+⭐ My personal Website developed by html, css, js about my interests
 
 <br/>
 <br/>
 
 
-⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a>
+⭐ link to Website: <a href="">Link</a>
 
 <br/>
 <br/>
