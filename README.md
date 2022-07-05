@@ -34,14 +34,12 @@
 <br/>
 <br/>
 
-⭐ My personal Website developed by html, css, js about my interests
-
+<div align="center">⭐ My personal Website developed by html, css, js about my interests</div>
 <br/>
 <br/>
 
 
-⭐ link to Website: <a href="https://ay-ka.github.io/Personal-Fun-Website/">Link</a>
-
+<div align="center"><h1>⭐ link to Website: <a href="https://ay-ka.github.io/Personal-Fun-Website/">Link</a></h1></div>
 <br/>
 <br/>
 
